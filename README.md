@@ -60,9 +60,9 @@ PHP文件必须使用无BOM的UTF-8编码方式
 /**
  * 描述
  *
- * @copyright Copyright&copy; 2016, 公司名称
- * @author zongshuai
- * @Date: 16/7/15
+ * @copyright Copyright 2017, 公司名称
+ * @author SUNGMEE
+ * @Date: 17/06/08
  * @Time: 下午5:45
  */
 ```
