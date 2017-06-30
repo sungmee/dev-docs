@@ -138,7 +138,7 @@ PHP文件必须使用无BOM的UTF-8编码方式
 - 加入 deleted_at 字段于软删除使用，`$table->softDeletes();`。
 
 ## 前后端通讯
-为最大发挥 Laravel 的特性，前后端通讯数据格式通常采用 JSON 或 集合（对象），一般不用纯 PHP 数组。
+为最大发挥 Laravel 的特性，前后端通讯数据格式通常采用 JSON 或 集合（对象），一般不用纯 PHP 数组。`Laravel` 集合参考[文档](http://d.laravel-china.org/docs/5.4/collections)。
 
 ### JSON 范例
 在控制器中，须省略 `response()->json()`，`Larave` 会根据需要自动进行 JSON 转换处理，直接返回如下格式的数组即可。
