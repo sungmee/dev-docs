@@ -61,9 +61,9 @@ PHP文件必须使用无BOM的UTF-8编码方式
  * 描述
  *
  * @copyright Copyright 2017, 公司名称
- * @author SUNGMEE
- * @Date: 17/06/08
- * @Time: 下午5:45
+ * @author    SUNGMEE
+ * @Date:     2017/07/01
+ * @Time:     18:00:00
  */
 ```
 
@@ -72,8 +72,9 @@ PHP文件必须使用无BOM的UTF-8编码方式
 /**
  * 描述
  *
- * @param 类型 $fields 描述
- * @param 类型 $fields 描述
+ * @date   2017/05/28 11:27:17
+ * @param  类型 $fields 描述
+ * @param  类型 $fields 描述
  * @return 类型 描述
  */
 ```
